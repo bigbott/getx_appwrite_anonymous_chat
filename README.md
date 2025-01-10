@@ -1,3 +1,3 @@
 # getx_appwrite_anonymous_chat
-
-A new Flutter project.
+[
+GetX + Appwrite. Anonymous chat app](https://medium.com/easy-flutter/flutter-getx-appwrite-anonymous-chat-app-05af4672c936).
